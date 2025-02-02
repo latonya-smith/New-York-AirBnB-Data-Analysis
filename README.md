@@ -1,4 +1,6 @@
 # New York AirBnB Data Analysis
+![airbnb-statistics](https://github.com/user-attachments/assets/2ceb8e03-6f21-468f-a32a-fd4f2816fa24)
+
 This project follows the Data Analytics process of the New York AirBnB Data Analysis
 The following represents the files contained in this document
 - Scripts
